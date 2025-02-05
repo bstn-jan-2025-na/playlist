@@ -1,5 +1,6 @@
 # Playlist
 
+<<<<<<< HEAD
 - Freedom - Beyoncé
 - Jungle Bird - Punch Brothers
 - Sunshine Over the Counter - Madison Cunningham
@@ -12,3 +13,17 @@
 - Just Like Paradise - David Roth
 - Kokomo - The Beach Boys
 >>>>>>> 9dd5e7b933e1f6bb4875782c4cd90d6d54601c65
+=======
+-   Freedom - Beyoncé
+-   Jungle Bird - Punch Brothers
+-   Sunshine Over the Counter - Madison Cunningham
+-   Rejoice - Joshua Redman
+
+-   MGMT - Kids
+-   Just Like Paradise - David Roth
+-   Kokomo - The Beach Boys
+
+-   Never Meant - American Football
+-   If I Ever Leave This World Alive - Flogging Molly
+-   From The Start - Laufey
+>>>>>>> 5277e993e424764da7e11dfb32d7d6ba06608c9b
