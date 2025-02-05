@@ -17,4 +17,7 @@
 - Easy Rider - Action Bronson
 - Feeling Good - Nina Simone
 - You want it Darker - Leonard Cohen
-
+- Rhymes Like Dimes - MF DOOM
+- A Spoonful Of Slurry - Tera Melos
+- Sittin' Up In My Room - Brandy
+- Inner City Boundaries - Freestyle Fellowship
