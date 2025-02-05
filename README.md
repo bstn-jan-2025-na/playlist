@@ -1,5 +1,9 @@
 # Instructions - Collaborative Git/Playlist!
 
+## Description
+
+This will be a musical playlist that will grow over time. This is meant to be a fun (and optional) collaborative project that we can all contribute to together. As we move along together, we can propose changes for any changes or edits to make. To start, this will exist as a markdown file (`playlist.md`), but that can change.
+
 ## Setup
 
 - In your preferred destination on your computer, run
