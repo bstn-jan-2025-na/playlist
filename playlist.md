@@ -13,3 +13,8 @@
 - Adena - Smoking Popes
 - Velouria - The Pixies
 - Summerhouse - Kota the Friend
+- San Pedro - Mogwai
+- Easy Rider - Action Bronson
+- Feeling Good - Nina Simone
+- You want it Darker - Leonard Cohen
+
