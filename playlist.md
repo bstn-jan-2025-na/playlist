@@ -21,3 +21,7 @@
 - A Spoonful Of Slurry - Tera Melos
 - Sittin' Up In My Room - Brandy
 - Inner City Boundaries - Freestyle Fellowship
+- Stop This Train - John Mayer
+- 16 CARRIAGES - Beyonce
+- R U Mine? - Arctic Monkeys
+
