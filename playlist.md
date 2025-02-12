@@ -30,3 +30,7 @@
   -You are the right one-
 - Marigold-Nirvana
 - Little Dipper -Hum
+- Soulmate -Johnny Stimson
+- Weekend - Mac Miller
+- Tennessee Whiskey - Chris Stapleton
+- Rain - Lucy Park!!
