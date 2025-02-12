@@ -33,4 +33,4 @@
 - Soulmate -Johnny Stimson
 - Weekend - Mac Miller
 - Tennessee Whiskey - Chris Stapleton
-- Rain - Lucy Park!!
+- Rain - Lucy Park

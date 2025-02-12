@@ -19,3 +19,11 @@ git clone https://github.com/bstn-jan-2025-na/playlist.git
 1. clone the repo
 2. Add 3-4 songs to the `playlist.md`
 3. `add, commit, push`
+
+## Sprint 2
+
+Now that we have the songs in a markdown file, let's move to HTML!
+
+1. In your `main` branch (the only branch you should have), make sure to run `git pull` to ensure you have everyone else's additions.
+2. Create your own local branch named `firstname-lastname-develop`. (Make sure you are working inside of this branch!)
+3. Add your songs to the ordered list and push your changes.
