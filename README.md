@@ -32,4 +32,4 @@ Now that we have the songs in a markdown file, let's move to HTML!
 
 1. Run `git pull` from inside `main`. You should have access to the `develop` branch that has been created.
 2. Create a pull request on GitHub: `base: develop` <- `compare: your-branch`
-   - a. We will meet on merge these pull requests together.
+   - a. We will meet to merge these pull requests together.
