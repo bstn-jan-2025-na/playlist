@@ -27,3 +27,9 @@ Now that we have the songs in a markdown file, let's move to HTML!
 1. In your `main` branch (the only branch you should have), make sure to run `git pull` to ensure you have everyone else's additions.
 2. Create your own local branch named `firstname-lastname-develop`. (Make sure you are working inside of this branch!)
 3. Add your songs to the ordered list and push your changes.
+
+## Sprint 3
+
+1. Run `git pull` from inside `main`. You should have access to the `develop` branch that has been created.
+2. Create a pull request on GitHub: `base: develop` <- `compare: your-branch`
+   - a. We will meet to merge these pull requests together.
